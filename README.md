@@ -21,6 +21,7 @@ Here is the sample input:
     "destination": "123456789"
 }
 
+sample Output
 
 {
     "status": true,
